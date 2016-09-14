@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CreateBorders.cs">
+    <Files>
+      <File FileName="Assets\SpawnedObject.cs" Line="28" Column="17" />
+      <File FileName="Assets\SpawnObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameOverTrigger.cs" Line="49" Column="61" />
+      <File FileName="Assets\PointObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\TouchManager.cs" Line="59" Column="17" />
+      <File FileName="Assets\CreateBoxBorders.cs" Line="13" Column="125" />
+      <File FileName="Assets\ChangeScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\PointObjectSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\DisplayScores.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerPrefsX.cs" Line="1" Column="1" />
+      <File FileName="Assets\InitializeGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\CreateBorders.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
